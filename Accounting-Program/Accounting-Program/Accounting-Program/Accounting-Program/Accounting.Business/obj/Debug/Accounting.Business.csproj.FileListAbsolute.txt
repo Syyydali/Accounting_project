@@ -1,0 +1,22 @@
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.csprojResolveAssemblyReference.cache
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.Business\obj\Debug\Accounting.Business.pdb

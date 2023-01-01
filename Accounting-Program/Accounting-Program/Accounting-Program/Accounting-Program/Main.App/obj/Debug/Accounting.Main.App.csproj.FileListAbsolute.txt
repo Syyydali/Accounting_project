@@ -1,0 +1,302 @@
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.Cache
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\17\17\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+D:\Work\Visual studio\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+D:\Work\Visual studio\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojResolveAssemblyReference.cache
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Clock.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.Cache
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojResolveAssemblyReference.cache
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\Seied\Desktop\acc\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.Cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+C:\Users\SHAHROKH\Downloads\Telegram Desktop\Accounting-Program02\Accounting-Program02\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Main.App.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.Utility.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Base.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Report.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\bin\Debug\Stimulsoft.Controls.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Calculator.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Form1.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frmLogin.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Add_Edit_Customer.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Customers.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Info.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_NewAccounting.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.frm_Report.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.Properties.Resources.resources
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.GenerateResource.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Accounting.Main.App.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.exe
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Main.App\obj\Debug\Main.App.pdb

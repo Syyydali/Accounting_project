@@ -1,0 +1,90 @@
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program - Backup\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll.config
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.DataLayer.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.csproj.CopyComplete
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting-Program\Accounting-Program\Accounting.DataLayer\obj\Debug\Accounting.DataLayer.pdb

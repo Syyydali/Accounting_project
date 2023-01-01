@@ -1,0 +1,27 @@
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\Work\Visual studio\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\ALI\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\SHAHROKH\OneDrive\Desktop\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\Seied\Desktop\acc\Accounting-Program\Accounting-Program\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
